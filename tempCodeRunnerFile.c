@@ -1,0 +1,2 @@
+
+    printf("Enter a number : ");
